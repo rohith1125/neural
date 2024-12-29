@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn />
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>MLL</licenseAgreementType>
+  <platform>maca64</platform>
+  <productBaseCode>ML_JAVASCRIPT_DESKTOP</productBaseCode>
+  <productName>New Desktop for MATLAB Tech Preview</productName>
+  <productNumber>2104</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <isControllingProduct>true</isControllingProduct>
+      <productBaseCode>ML</productBaseCode>
+      <productName>MATLAB</productName>
+      <productNumber>1</productNumber>
+      <productVersion>23.2</productVersion>
+      <releaseDescription>R2023b</releaseDescription>
+      <releaseFamily>R2023b</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/mll_license_common</name>
+      <componentFileName>hardwaresupportpkgs/licenses/mll_license_common_1690923620.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>5752</size>
+      <uncompressedBytes>14651</uncompressedBytes>
+      <version>1690923620</version>
+    </component>
+    <component>
+      <name>softwaresupportpkgs/webdesktop/webdesktop_common</name>
+      <componentFileName>softwaresupportpkgs/webdesktop/webdesktop_common_1695717667.zip</componentFileName>
+      <contentType>common</contentType>
+      <demo>0</demo>
+      <doc>0</doc>
+      <doc_build>0</doc_build>
+      <doc_search>0</doc_search>
+      <gpu>0</gpu>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maca64</platform>
+        <platform>maci64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <size>8160343</size>
+      <uncompressedBytes>8160798</uncompressedBytes>
+      <version>1695717667</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>MLL</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maca64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>ML_JAVASCRIPT_DESKTOP</productBaseCode>
+  <productName>New Desktop for MATLAB Tech Preview</productName>
+  <productNumber>2104</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.1</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+  <requiredProducts />
+</productData>

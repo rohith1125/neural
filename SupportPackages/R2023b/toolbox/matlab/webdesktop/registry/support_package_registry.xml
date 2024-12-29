@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!--Copyright 2022 The MathWorks, Inc. -->
+
+<RTTPackageRepository>
+  <SupportPackage
+      name="JSD Tech Preview"
+      displayname="Tech Preview: New Desktop for MATLAB"
+      version="22.2.0"
+      fullname="Tech Preview: New Desktop for MATLAB"
+      baseproduct="MATLAB"
+      visible="1"
+      platform="PCWIN64,GLNXA64,MACI64,MACA64"
+      basecode="ML_JAVASCRIPT_DESKTOP"
+      infotext="Try the tech preview of the New Desktop for MATLAB"
+      infohyperlink="http://www.mathworks.com/pl_web_desktop_resource_page"
+      enable="1"
+      supporttypequalifier="TechPreview"
+      custommwlicensefiles=""
+      url="http://www.mathworks.com"
+      downloadurl=""
+      licenseurl=""
+      supportcategory="software"
+      folder="webdesktop"
+      preuninstallcmd="matlab:webdesktop.internal.preUninstallCmd"
+      postinstallcmd="matlab:webdesktop.internal.postInstallCmd">
+    <Path name="$(INSTALLDIR)/webdesktop"></Path>
+  </SupportPackage>
+</RTTPackageRepository>
